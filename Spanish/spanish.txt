@@ -1,0 +1,26 @@
+Hello!
+How are you?
+I am fine and you?
+I and fine too. 
+I am echobash.
+What is your name? 
+My name is `contributor name`. 
+Where are you from?
+I am from India and you?
+Where are you from? 
+I am from `your country name`.
+Nice to meet you echobash.
+Bye!
+
+¡Hola!
+¿Cómo estás?
+¿Estoy bien y tu?
+Estoy bien tambien.
+Soy echobash.
+¿Cómo te llamas?
+Me llamo juan.
+¿De dónde eres?
+¿Soy de India y tú?
+Soy de España.
+Mucho gusto echobash.
+¡Adiós!
