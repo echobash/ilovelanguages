@@ -12,7 +12,7 @@ For e.g If we have to add a file for spanish, we'll have these contents in the s
     Hello!
     How are you?
     I am fine and you?
-    I and fine too. 
+    I am fine too. 
     I am echobash.
     What is your name? 
     My name is `contributor name`. 
