@@ -3,11 +3,11 @@ Basic Introductory Sentences in all the languages spoken around the world at one
 
 Steps to contribute in the repo and add the pharases for a language -
 
-1. Make a new folder for the language you wish to add (e.g spanish) 
-2. In the folder, create a file named language.txt (e.g spanish.txt)
-3. In the spanish.txt, add the translation of these basic sentences in that particular langauge along with the orignal sentences in english-
+- Make a new folder for the language you wish to add (e.g spanish) 
+- In the folder, create a file named language.txt (e.g spanish.txt)
+- In the spanish.txt, add the translation of these basic sentences in that particular langauge along with the orignal sentences in english-
 
-For e.g If we have to add a file for spanish, we'll have these contents in the spanish.txt
+## Example - To add a file for Spanish, add these contents in the spanish.txt
 
     Hello!
     How are you?
